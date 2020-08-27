@@ -15,6 +15,8 @@ https://medium.com/python4u/anaconda%E4%BB%8B%E7%B4%B9%E5%8F%8A%E5%AE%89%E8%A3%9
 * refor from : https://medium.com/python4u/%E7%94%A8conda%E5%BB%BA%E7%AB%8B%E5%8F%8A%E7%AE%A1%E7%90%86python%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83-b61fd2a76566
 * 先以管理員身分開啟命令提示字元(CMD)(後面步驟多在CMD下操作)
 
+![image](https://github.com/wayne-byte/CNN-Sample-Code/blob/master/figure/CMD.png)
+
 * 以下列指令進入資料要放的位置(Modify the path in mypath)
 ```terminal
 cd mypath
