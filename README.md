@@ -28,6 +28,8 @@ conda create --name myenv python=3.7
 activate myenv
 ```
 
+![image](https://github.com/wayne-byte/CNN-Sample-Code/blob/master/figure/env.png)
+
 ## 下載Pytorch 範例
 * refor from : https://github.com/yunjey/pytorch-tutorial
 * 以下列指令透過git 下載範例程式
