@@ -65,3 +65,8 @@ spyder
 ![image](https://github.com/wayne-byte/CNN-Sample-Code/blob/master/figure/CNN.png)
 
 * 從結果可看出在相同的輸入及訓練數下，CNN模型比NN模型的準確率要更高(嚴謹一點的比較是將2種模型的超參數(epoch、batch、layer等)都以很多組去訓練，取最好的模型才能比較性能)
+
+## 討論
+* 可參考源範例的READNE(https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/04-utils/tensorboard)，了解tensorboard 的使用
+* 若要將範例套在學長的應用上，需要修改的主要是輸入的形式及模型的輸入大小
+* 因模型的輸入大小需要固定，所以建議學長影像需要先做前處理(ex.先以整張影像輸入為目標，不需要的部分以補0處理、ex.影像若太大會導致batch需要設定很小，所以先做空間降採樣或PCA等等)
