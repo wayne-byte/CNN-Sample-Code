@@ -17,11 +17,6 @@ https://medium.com/python4u/anaconda%E4%BB%8B%E7%B4%B9%E5%8F%8A%E5%AE%89%E8%A3%9
 
 ![image](https://github.com/wayne-byte/CNN-Sample-Code/blob/master/figure/CMD.png)
 
-* 以下列指令進入資料要放的位置(Modify the path in mypath)
-```terminal
-cd mypath
-```
-
 * 以下列指令透過conda 建立虛擬環境(Modify the name in myenv)
 ```terminal
 conda create --name myenv python=3.7
@@ -32,6 +27,11 @@ activate myenv
 
 ## 下載Pytorch 範例
 * refor from : https://github.com/yunjey/pytorch-tutorial
+* 以下列指令進入資料要放的位置(Modify the path in mypath)
+```terminal
+cd mypath
+```
+
 * 以下列指令透過git 下載範例程式
 ```terminal
 git clone https://github.com/yunjey/pytorch-tutorial.git
