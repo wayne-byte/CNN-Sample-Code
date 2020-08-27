@@ -30,7 +30,7 @@ conda activate myenv
 cd mypath
 ```
 
-* 以下列指令透過git 下載範例程式(我是下載源範例，所以圖與指令不同)
+* 以下列指令透過git 下載範例程式(我是下載源範例，所以上圖與指令不同)
 ```terminal
 git clone https://github.com/wayne-byte/CNN-Sample-Code.git
 ```
