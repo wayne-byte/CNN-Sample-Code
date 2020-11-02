@@ -1,4 +1,4 @@
-# CNN Sample Code For 學長
+# CNN Sample Code
 
 ## 完整步驟
 1. 安裝Anaconda(可直接裝最新版)
